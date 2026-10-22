@@ -1,4 +1,4 @@
-# AI Trust Insights — Data Preprocessing & Analysis
+# AI Trust Insights - Data Preprocessing & Analysis
 
 ## Overview
 
